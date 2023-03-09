@@ -4,3 +4,4 @@
 
 [Лабораторная работа 2](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_2.pdf)
  
+Средняя посещаемость: **68%**
