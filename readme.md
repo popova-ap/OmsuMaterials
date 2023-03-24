@@ -5,5 +5,7 @@
 [Лабораторная работа 2](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_2.pdf)
 
 [Лабораторная работа 3](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_3.pdf)
- 
-Средний процент: **72%** 
+
+[Лабораторная работа 4](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_4.pdf)
+
+Средний процент: **74%** 
