@@ -8,6 +8,8 @@
 
 [Лабораторная работа 4](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_4.pdf)
 
+[Лабораторная работа 5](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_5.pdf)
+
 [Лекции](https://posgen.github.io/)
 
-Средний процент: **79%**
+Средний процент: **78%** 
