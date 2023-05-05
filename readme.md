@@ -12,6 +12,8 @@
 
 [Лабораторная работа 6](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_6.pdf)
 
+[Лабораторная работа 7](https://github.com/popova-ap/OmsuMaterials/tree/master/lab_7.pdf)
+
 [Лекции](https://posgen.github.io/)
 
-Средний процент: **76%** 
+Средний процент: **77%** 
